@@ -17,7 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendrilxx&show_icons=true&theme=dracula&text_color=a003b5&locale=en" alt="wendrilxx" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendrilxx&show_icons=true&theme=dracula&locale=en&layout=compact" alt="wendrilxx" /></p>
 
-##
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
