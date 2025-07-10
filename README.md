@@ -24,7 +24,7 @@
   <a href="https://dev.to/wendrilxx" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://www.linkedin.com/in/wendril-gabriel-medeiros-holanda-829775180/" target="_blank">
+  <a href="https://www.linkedin.com/in/wendrilgabriel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
