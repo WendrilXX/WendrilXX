@@ -60,18 +60,7 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendrilxx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&custom_title=Wendril%20Gabriel's%20GitHub%20Stats" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendrilxx&layout=compact&theme=dracula&hide_border=true&langs_count=10&card_width=320&custom_title=Most%20Used%20Languages&hide=html,css" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendrilxx&theme=dracula&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9&sideNums=bd93f9&sideLabels=6272a4&dates=6272a4" alt="GitHub Streak"/>
-</div>
-
-## 🐍 Contributions
+##  Contributions
 
 <div align="center">
   <picture>
