@@ -63,12 +63,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/wendrilxx">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wendrilxx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&custom_title=Wendril%20Gabriel's%20GitHub%20Stats" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/wendrilxx">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wendrilxx&layout=compact&theme=dracula&hide_border=true&langs_count=8&card_width=280&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendrilxx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&custom_title=Wendril%20Gabriel's%20GitHub%20Stats" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendrilxx&layout=compact&theme=dracula&hide_border=true&langs_count=10&card_width=320&custom_title=Most%20Used%20Languages&hide=html,css" alt="Top Languages"/>
 </div>
 
 <div align="center">
