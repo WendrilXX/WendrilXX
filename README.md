@@ -87,12 +87,12 @@
 
 <div align="center">
   <a href="https://github.com/wendrilxx">
-    <img src="https://github-readme-stats.vercel.app/api?username=wendrilxx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wendrilxx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&custom_title=Wendril%20Gabriel's%20GitHub%20Stats" alt="GitHub Stats"/>
   </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendrilxx&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendrilxx&theme=dracula&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendrilxx&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendrilxx&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=445&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
 </div>
 
 ## 🐍 Contributions
