@@ -80,12 +80,15 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
-</di## 📊 GitHub Statistics
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wendrilxx&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendrilxx&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</di>
-v>v
->
+  <p>
+    <strong>Let's build something amazing together? Get in touch!</strong>
+  </p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=wendrilxx&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+</div>
