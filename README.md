@@ -92,7 +92,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendrilxx&theme=dracula&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendrilxx&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=445&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendrilxx&layout=compact&theme=dracula&hide_border=true&langs_count=8&show_icons=true&card_width=445&custom_title=Most%20Used%20Languages&exclude_repo=wendrilxx" alt="Top Languages"/>
 </div>
 
 ## 🐍 Contributions
