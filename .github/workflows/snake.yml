@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours at 6 AM and 6 PM UTC
-    - cron: "0 6,18 * * *"
+  schedule: # execute every 8 hours for better freshness
+    - cron: "0 */8 * * *"
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -15,7 +15,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     
     steps:
       - name: Checkout repository
@@ -27,20 +27,22 @@ jobs:
           github_user_name: wendrilxx
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bd93f9&color_dots=#6272a4,#44475a,#bd93f9,#50fa7b,#f1fa8c
+            dist/github-contribution-grid-snake-light.svg?palette=github-light&color_snake=#6f42c1&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Verify generated files
         run: |
           ls -la dist/
+          echo "Snake files generated successfully!"
           
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update snake animations"
+          commit_message: "🐍 Update snake animations [automated]"
+          cleanup: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
