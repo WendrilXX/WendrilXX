@@ -1,12 +1,12 @@
 <div align="center">
   <h1>👋 Hello! I'm Wendril Gabriel</h1>
-  <h3>🎨 Frontend Developer in constant evolution</h3>
+  <h3>💻 Full Stack Developer </h3>
   
   <p>
-    <em>Exploring the fascinating world of programming, one line of code at a time</em>
+    <em>Always aiming to deliver memorable user experiences</em>
   </p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Creating+amazing+interfaces;Passionate+about+technology;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Expert;Always+learning+something+new" alt="Typing SVG" />
 </div>
 
 ## 🔭 About me
