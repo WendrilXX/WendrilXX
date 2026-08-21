@@ -22,89 +22,89 @@
 
 I'm a Full Stack Developer, curious about technology and everything that happens between the interface and infrastructure.
 
-## 🧰 Technologies & tools
+## Technologies & tools
 
-### 🎨 Frontend
+### Frontend
 
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white">
+  <img width="42" height="42" title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg">
+  <img width="42" height="42" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg">
+  <img width="42" height="42" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg">
+  <img width="42" height="42" title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg">
+  <img width="42" height="42" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg">
+  <img width="42" height="42" title="Next.js" alt="Next.js" src="https://cdn.simpleicons.org/nextdotjs/_/ffffff?viewbox=auto">
+  <img width="42" height="42" title="Vite" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vite/vite-original.svg">
+  <img width="42" height="42" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg">
 </p>
 
-### ⚙️ Backend & data
+### Backend & data
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white">
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white">
+  <img width="42" height="42" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg">
+  <img width="42" height="42" title="FastAPI" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg">
+  <img width="42" height="42" title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg">
+  <img width="42" height="42" title="Lua" alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/lua/lua-original.svg">
+  <img width="42" height="42" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg">
+  <img width="42" height="42" title="Supabase" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/supabase/supabase-original.svg">
+  <img width="42" height="42" title="MariaDB" alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mariadb/mariadb-original.svg">
+  <img width="42" height="42" title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg">
 </p>
 
-### 📱 Mobile
+### Mobile
 
 <p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white">
+  <img width="42" height="42" title="Flutter" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg">
+  <img width="42" height="42" title="Dart" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dart/dart-original.svg">
 </p>
 
-### 🛠️ Infrastructure & quality
+### Infrastructure & quality
 
 <p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white">
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white">
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white">
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&amp;logo=vitest&amp;logoColor=white">
+  <img width="42" height="42" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg">
+  <img width="42" height="42" title="Nginx" alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nginx/nginx-original.svg">
+  <img width="42" height="42" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg">
+  <img width="42" height="42" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg">
+  <img width="42" height="42" title="GitHub Actions" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg">
+  <img width="42" height="42" title="Playwright" alt="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg">
+  <img width="42" height="42" title="Pytest" alt="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg">
+  <img width="42" height="42" title="Vitest" alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitest/vitest-original.svg">
 </p>
 
-### 🧩 Complementary ecosystem
+### Complementary ecosystem
 
 <p align="center">
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&amp;logo=svelte&amp;logoColor=white">
-  <img alt="FiveM" src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&amp;logo=fivem&amp;logoColor=white">
-  <img alt="Qbox" src="https://img.shields.io/badge/Qbox-9932CC?style=flat-square">
-  <img alt="Ox ecosystem" src="https://img.shields.io/badge/Ox_ecosystem-24292f?style=flat-square">
-  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-9932CC?style=flat-square&amp;logo=swagger&amp;logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=databricks&amp;logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&amp;logo=firebase&amp;logoColor=white">
-  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=white">
-  <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=csharp&amp;logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white">
+  <img width="42" height="42" title="Svelte" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/svelte/svelte-original.svg">
+  <img width="42" height="42" title="FiveM" alt="FiveM" src="https://cdn.simpleicons.org/fivem?viewbox=auto">
+  <img width="42" height="42" title="Qbox" alt="Qbox" src="https://avatars.githubusercontent.com/u/114441052?s=84&amp;v=4">
+  <img width="42" height="42" title="Ox ecosystem" alt="Ox ecosystem" src="https://avatars.githubusercontent.com/u/88127058?s=84&amp;v=4">
+  <img width="42" height="42" title="REST APIs" alt="REST APIs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/swagger/swagger-original.svg">
+  <img width="42" height="42" title="SQL" alt="SQL" src="https://api.iconify.design/material-symbols/database.svg?color=%239932CC">
+  <img width="42" height="42" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg">
+  <img width="42" height="42" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg">
+  <img width="42" height="42" title="SQLAlchemy" alt="SQLAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlalchemy/sqlalchemy-original.svg">
+  <img width="42" height="42" title="Zod" alt="Zod" src="https://cdn.simpleicons.org/zod?viewbox=auto">
+  <img width="42" height="42" title="C#" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg">
+  <img width="42" height="42" title="GitHub" alt="GitHub" src="https://cdn.simpleicons.org/github/_/ffffff?viewbox=auto">
+  <img width="42" height="42" title="Vercel" alt="Vercel" src="https://cdn.simpleicons.org/vercel/_/ffffff?viewbox=auto">
 </p>
 
 ## 📊 GitHub at a glance
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github">
-    <img width="100%" alt="WendrilXX GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github_dark&amp;title_color=9932CC&amp;icon_color=9932CC&amp;chart_color=9932CC">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github&amp;title_color=9932CC&amp;icon_color=9932CC&amp;chart_color=9932CC">
+    <img width="100%" alt="WendrilXX GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github&amp;title_color=9932CC&amp;icon_color=9932CC&amp;chart_color=9932CC">
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-dark&amp;locale=en&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-light&amp;locale=en&amp;hide_border=true">
-    <img alt="WendrilXX contribution streak" src="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-light&amp;locale=en&amp;hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-dark&amp;locale=en&amp;hide_border=true&amp;ring=9932CC&amp;fire=9932CC&amp;currStreakNum=9932CC&amp;currStreakLabel=9932CC">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-light&amp;locale=en&amp;hide_border=true&amp;ring=9932CC&amp;fire=9932CC&amp;currStreakNum=9932CC&amp;currStreakLabel=9932CC">
+    <img alt="WendrilXX contribution streak" src="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-light&amp;locale=en&amp;hide_border=true&amp;ring=9932CC&amp;fire=9932CC&amp;currStreakNum=9932CC&amp;currStreakLabel=9932CC">
   </picture>
 </div>
 
-### ⚡ Recent activity
+### Recent activity
 
 <div align="center">
   <picture>
