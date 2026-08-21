@@ -1,96 +1,74 @@
-<div align="center">
-  <h1>👋 Hello! I'm Wendril Gabriel</h1>
-  <h3>💻 Full Stack Developer </h3>
-  
-  <p>
-    <em>Always aiming to deliver memorable user experiences</em>
-  </p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Expert;Always+learning+something+new" alt="Typing SVG" />
-</div>
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 
-## 🔭 About me
-
-- 👨‍💻 Full Stack Developer focused on frontend and exceptional user experiences
-- � Always learning new technologies and seeking professional opportunities
-- ⚡ Fun fact: **I believe creativity and good humor are essential to grow as a developer!**
-
-## 🛠️ Technologies and Tools
-
-<div align="center">
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<p align="right">
+  <strong>Português</strong> · <a href="./README.en.md">English</a>
 </p>
-
-### ⚛️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-### 🛠️ Backend & Full Stack
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 🔧 Tools & Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-### 🌐 Deploy & Other Technologies
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-</div>
-
-##  Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wendrilxx/wendrilxx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wendrilxx/wendrilxx/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/wendrilxx/wendrilxx/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&amp;height=170&amp;section=header&amp;text=Wendril%20Gabriel&amp;fontSize=42&amp;fontColor=f0f6fc&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Full%20Stack%20Developer&amp;descSize=16&amp;descAlignY=68">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&amp;height=170&amp;section=header&amp;text=Wendril%20Gabriel&amp;fontSize=42&amp;fontColor=1f2328&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Full%20Stack%20Developer&amp;descSize=16&amp;descAlignY=68">
+    <img width="100%" alt="Wendril Gabriel — Desenvolvedor Full Stack" src="https://capsule-render.vercel.app/api?type=transparent&amp;height=170&amp;section=header&amp;text=Wendril%20Gabriel&amp;fontSize=42&amp;fontColor=1f2328&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Full%20Stack%20Developer&amp;descSize=16&amp;descAlignY=68">
+  </picture>
+
+<a href="https://www.linkedin.com/in/wendrilgabriel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-1f2328?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a>
+<img alt="Localização: Piauí, Brasil" src="https://img.shields.io/badge/Piau%C3%AD%2C%20Brasil-1f2328?style=flat-square&amp;logo=googlemaps&amp;logoColor=white">
+</div>
+
+## Sobre
+
+Desenvolvedor Full Stack que transforma ideias em produtos digitais de ponta a ponta — da interface à infraestrutura. Construo experiências claras, rápidas e sustentáveis, tomando decisões com atenção à arquitetura, segurança e desempenho.
+
+Minha experiência inclui aplicações web e mobile, APIs, bancos de dados, automação e ambientes conteinerizados. Gosto de entender o problema antes da tecnologia e de manter cada solução simples o bastante para evoluir.
+
+Parte da minha experiência recente também vem de produtos privados: sistemas web end-to-end, serviços de backend e aplicações mobile construídos com foco em confiabilidade e manutenção.
+
+## Stack
+
+| Área                  | Tecnologias                                                        |
+| --------------------- | ------------------------------------------------------------------ |
+| **Frontend**          | HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS |
+| **Backend**           | Python · FastAPI · Node.js · APIs REST                             |
+| **Dados**             | PostgreSQL · SQLAlchemy · Redis · Firebase                         |
+| **Mobile**            | Flutter · Dart                                                     |
+| **Infra & qualidade** | Docker · Nginx · Linux · GitHub Actions · Playwright · Pytest      |
+| **Outros**            | C# · Unity · Git                                                   |
+
+## GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github">
+    <img width="100%" alt="Resumo do perfil de WendrilXX no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendrilXX&amp;theme=github">
   </picture>
 </div>
 
-## ⚡ Recent Activity
+### Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wendrilxx&theme=dracula&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendrilXX/WendrilXX/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WendrilXX/WendrilXX/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="Animação do histórico de contribuições de WendrilXX" src="https://raw.githubusercontent.com/WendrilXX/WendrilXX/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-## 💭 Inspirational Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
-</div>
+<details>
+  <summary><strong>Ver sequência de contribuições</strong></summary>
+  <br>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-dark&amp;locale=pt_BR&amp;hide_border=true&amp;disable_animations=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-light&amp;locale=pt_BR&amp;hide_border=true&amp;disable_animations=true">
+      <img alt="Sequência de contribuições de WendrilXX" src="https://streak-stats.demolab.com?user=WendrilXX&amp;theme=github-light&amp;locale=pt_BR&amp;hide_border=true&amp;disable_animations=true">
+    </picture>
+  </div>
+</details>
 
 ---
 
 <div align="center">
-  <p>
-    <strong>Let's build something amazing together? Get in touch!</strong>
-  </p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=wendrilxx&color=blueviolet&style=flat-square&label=Profile+Views)
-  
+  <p><strong>Tem uma ideia ou quer trocar experiências?</strong> <a href="https://www.linkedin.com/in/wendrilgabriel/">Vamos conversar.</a></p>
+  <img alt="Visitas ao perfil" src="https://api.visitorbadge.io/api/visitors?path=WendrilXX&amp;label=visitas&amp;labelColor=%231f2328&amp;countColor=%236e7781&amp;style=flat-square">
 </div>
