@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">Wendril Gabriel — Software Engineer</title>
+  <desc id="description">Dark GitHub profile header with blue, purple, and cyan technical accents.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.52" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="blue-field" cx="0" cy="0" r="1" gradientTransform="translate(1060 26) rotate(126) scale(418 510)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8B9BB4" stroke-opacity="0.08"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1280" height="360" rx="2"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="360" fill="#070B14"/>
+    <rect width="1280" height="360" fill="url(#blue-field)"/>
+    <rect x="724" width="556" height="360" fill="url(#grid)"/>
+    <path d="M932 -32L1280 124V360H1160L812 204Z" fill="#7C5CFC" fill-opacity="0.055"/>
+
+    <rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
+    <rect x="64" y="62" width="44" height="2" fill="#22D3EE"/>
+    <text x="122" y="70" fill="#8B9BB4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2.2">GITHUB / WENDRILXX</text>
+
+    <text x="64" y="174" fill="#F0F6FC" font-family="Aptos, Segoe UI, Helvetica Neue, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Wendril Gabriel</text>
+    <text x="68" y="222" fill="#B7C4D8" font-family="Aptos, Segoe UI, Helvetica Neue, sans-serif" font-size="24" font-weight="500" letter-spacing="3.6">SOFTWARE ENGINEER</text>
+
+    <line x1="68" y1="269" x2="520" y2="269" stroke="#25314A"/>
+    <circle cx="68" cy="302" r="4" fill="#58A6FF"/>
+    <text x="84" y="308" fill="#8B9BB4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">github.com/WendrilXX</text>
+
+    <g fill="none" stroke-linecap="square">
+      <path d="M808 92H1116L1216 192L1084 324H844L756 236Z" stroke="#25314A" stroke-width="2"/>
+      <path d="M844 116H1092L1180 204L1060 292H864L792 224Z" stroke="url(#accent)" stroke-width="2"/>
+      <path d="M968 116V292M792 204H1180" stroke="#25314A"/>
+      <circle cx="968" cy="204" r="54" stroke="#58A6FF" stroke-opacity="0.45"/>
+      <circle cx="968" cy="204" r="7" fill="#22D3EE" stroke="#070B14" stroke-width="4"/>
+      <path d="M968 116L1180 204L968 292L792 204Z" stroke="#7C5CFC" stroke-opacity="0.5"/>
+    </g>
+    <text x="936" y="212" fill="#F0F6FC" font-family="Aptos, Segoe UI, Helvetica Neue, sans-serif" font-size="22" font-weight="700" letter-spacing="4">WG</text>
+  </g>
+</svg>
